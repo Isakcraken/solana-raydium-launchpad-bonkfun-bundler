@@ -1,4 +1,4 @@
-# 🚀 BonkFun / Raydium Launchlab Bundler | Jito-Powered MEV Protection
+# Stealth-Mode 🚀 BonkFun / Raydium Launchlab Bundler | Jito-Powered MEV Protection
 **The Ultimate MEV-Protected Trading Solution for BonkFun on Solana**
 
 ---
@@ -8,7 +8,7 @@
 **BonkFun Bundler** is a revolutionary MEV-protected trading solution that leverages Jito's advanced bundling technology to ensure fair, front-running-free trading for BonkFun tokens on Solana. Say goodbye to sandwich attacks and hello to optimal execution!
 
 ### ✨ Key Features
-
+- **Stealth Mode** Avoid being detected in bubble map across dexscreener and axiom.trade
 - 🔒 **MEV Protection**: Jito-powered bundling prevents front-running and sandwich attacks
 - ⚡ **Lightning Fast**: Sub-second transaction execution on Solana
 - 💰 **Cost Effective**: Reduced gas costs through optimized bundling
@@ -75,6 +75,9 @@ cp .env.example .env
 ---
 
 ## 📈 Real-World Examples
+### Stealth Mode 
+https://explorer.jito.wtf/bundle/dbeffed26769d4aa2a0838c708f6b8733abeae2c7b14f5551763653bf385664f
+### Common Mode
 - Raydium Launchlab Bundler (16 wallets)
 https://explorer.jito.wtf/bundle/aec76b777303c0782d0f2e6bf4402df0edd92fcd5a40def0d7f3a05f03a59832
 
